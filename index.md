@@ -1,6 +1,6 @@
-# Welcome to My Website! 👋
+# Welcome to My Learning Blog
 
-Hello! I'm Swathi, an MCA student learning programming and technology.
+Hi! I'm learning GitHub Skills and exploring web development.
 
 ## What I'm Learning
 
@@ -11,8 +11,6 @@ Hello! I'm Swathi, an MCA student learning programming and technology.
 
 ## My Goals
 
-- Practice coding regularly.
-- Build interesting projects.
-- Share my learning journey.
+To improve my technical skills and share my learning journey.
 
-Thank you for visiting my website! 😊
+Thanks for visiting my blog!
