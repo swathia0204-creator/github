@@ -1,4 +1,7 @@
-Welcome to My Learning Blog
+
+---
+title: Welcome to My Learning Blog
+---
 
 Hi! I'm learning GitHub Skills and exploring web development.
 
@@ -11,6 +14,11 @@ Hi! I'm learning GitHub Skills and exploring web development.
 
 ## My Goals
 
-To improve my technical skills and share my learning journey.
+- Improve my technical skills.
+- Practice coding regularly.
+- Build interesting projects.
+- Share my learning journey.
 
-Thanks for visiting my blog!
+## Thank You!
+
+Thanks for visiting my blog! 😊
